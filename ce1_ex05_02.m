@@ -1,6 +1,6 @@
 %% Initialize Plot
 clear
-addpath(['..' filesep 'lib'])
+import lib.*
 
 nSamples = 101;
 tStart = -5;

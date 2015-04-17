@@ -1,5 +1,5 @@
 clear
-addpath(['..' filesep 'lib'])
+import lib.*
 
 T = 1.5;
 fs = 2; % sampling frequency

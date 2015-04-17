@@ -1,5 +1,5 @@
 clear
-addpath(['..' filesep 'lib'])
+import lib.*
 
 A = 1;
 fg = 1;
